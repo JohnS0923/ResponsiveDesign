@@ -1,2 +1,2 @@
-# Kirsten Marklye
+# Johnny Sun
 ## Responsive Design Lesson Starter Files
